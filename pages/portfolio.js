@@ -1,6 +1,5 @@
-
-import Menu from '../components/Menu';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import Menu from "../components/Menu";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const Portfolio = () => {
     return (
@@ -9,6 +8,6 @@ const Portfolio = () => {
             Meu Portfólio
         </div>
     );
-}
+};
 
 export default Portfolio;
